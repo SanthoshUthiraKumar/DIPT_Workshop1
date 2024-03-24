@@ -27,9 +27,6 @@ Anaconda - Python 3.7
 ### Developed By: Santhosh U
 ### Register Number: 212222240092
 ```
-<table>
-  <tr>
-    <td width=50%>
 
 ### i) 
 ```Python
@@ -40,18 +37,9 @@ cv2.imshow('Santhosh',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ``` 
-  </td>
-  <td>
 
 ### OUTPUT:
-
- <img src="https://github.com/SanthoshUthiraKumar/DIPT_Workshop1/assets/119477975/1a1769fb-b180-4d5d-bf1c-0d5ac0b82017">
-  </td>
-  </tr>
-
-   <tr>
-    <td width=50%>
-
+![Output1](https://github.com/SanthoshUthiraKumar/DIPT_Workshop1/assets/119477975/f65bb030-59aa-49e8-8530-ae24428c57bd)
 
 ### ii)
 ```Python
@@ -66,16 +54,10 @@ cv2.imshow('OrginaltoGRAY',gray1)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-  </td>
-  <td>
+
 
 ### OUTPUT:
-
-<img src="https://github.com/SanthoshUthiraKumar/DIPT_Workshop1/assets/119477975/02fd6f7f-8ac1-4489-ab4e-6affcf354ef7">
-  </td>
-  </tr>
-  <tr>
-    <td width=50%>
+![Output2](https://github.com/SanthoshUthiraKumar/DIPT_Workshop1/assets/119477975/16dc94cc-765b-450b-88fd-71898e20b9e1)
 
 ### iii)
 ```Python
@@ -90,16 +72,10 @@ cv2.imshow('Value',V)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-  </td>
-  <td>
+
 
 ### OUTPUT:
-
-<img src="https://github.com/SanthoshUthiraKumar/DIPT_Workshop1/assets/119477975/715fe281-d723-43c7-b7cf-2b4d5d020429">
-  </td>
-  </tr>
-  <tr>
-    <td>
+![Output3](https://github.com/SanthoshUthiraKumar/DIPT_Workshop1/assets/119477975/c21308fa-eeee-4858-8667-59f546a6d6c8)
 
 
 ## Result:
